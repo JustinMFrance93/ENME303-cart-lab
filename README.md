@@ -10,3 +10,5 @@ Author: Justin France
  takes 2s to complete in addition to the time taken to position the cart.
 
  Where I was tasked in designing the control gains to meet the specifications of:  ess < 0.1mm , damping > 0.1, Mp%<30%, tr<0.5s
+
+ The results of the chosen control gain are discussed about in the lab report with the plotted results and corrosponding equations used.
